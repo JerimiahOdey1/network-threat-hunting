@@ -59,7 +59,7 @@ This finding emphasizes the balance between privacy and security monitoring in m
 ## Screenshots
 
 ### DNS Analysis
-![DNS Overview](dns-traffic-overview.png)  
+![DNS Overview](project4-dns-traffic-overview.png)  
 ![Repeated DNS Requests](dns-repeated-requests.png)
 
 ---
