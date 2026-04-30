@@ -56,7 +56,7 @@ This finding emphasizes the balance between privacy and security monitoring in m
 
 ---
 
-## Evidence
+## Screenshots
 
 ### DNS Analysis
 ![DNS Overview](dns-traffic-overview.png)  
